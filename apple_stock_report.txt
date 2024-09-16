@@ -7,50 +7,11 @@ Close: 222.5000
 Volume: 36766619
 
 Cash Flow Information:
-Fiscal Year: 2023-09-30
-Operating Cash Flow: 110543000000
-Capital Expenditures: 10959000000
-Cash Flow from Financing: -108488000000
-
-Fiscal Year: 2022-09-30
-Operating Cash Flow: 122151000000
-Capital Expenditures: 10708000000
-Cash Flow from Financing: -110749000000
+Failed to retrieve cash flow information
 
 Balance Sheet Information:
-Fiscal Year: 2023-09-30
-Total Assets: 352583000000
-Total Liabilities: 290437000000
-Total Shareholder Equity: 62146000000
-
-Fiscal Year: 2022-09-30
-Total Assets: 352755000000
-Total Liabilities: 302083000000
-Total Shareholder Equity: 50672000000
+Failed to retrieve balance sheet information
 
 Recent News:
-News 1:
-Title: Is the iPhone 16 Good Enough to Save Apple's September? Not According to This Trend
-Summary: The Situation Remember the excitement of Apple ( AAPL ) 's last developers meeting in June? Programmers and developers from the company skydiving out of a plane to land on the company's campus in Cupertino to drop the newest features of the upcoming hardware releases on their hardware platforms.
-URL: https://moneymorning.com/2024/09/16/is-the-iphone-16-good-enough-to-save-apples-september-not-according-to-this-trend/
-
-News 2:
-Title: Arm Holdings Is A 'Strong AI Play' But Not A Buy, Analyst Says - ARM Holdings  ( NASDAQ:ARM ) 
-Summary: Shares of Arm Holdings PLC ARM had spiked last week on prospects of the company's V9 architecture being used in the new A18 chip for Apple Inc's AAPL iPhone 16. The company has a proven growth track record and opportunities to continue growing faster than Street expectations, according to Benchmark.
-URL: https://www.benzinga.com/analyst-ratings/analyst-color/24/09/40880169/arm-holdings-is-a-strong-ai-play-but-not-a-buy-analyst-says
-
-News 3:
-Title: Market Clubhouse Morning Memo - September 16th, 2024  ( Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META And TSLA ) 
-Summary: Good Morning Traders! In today's Market Clubhouse Morning Memo, we will discuss SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA. Our proprietary formula, exclusive to Market Clubhouse, dictates these price levels. This dynamic equation takes into account price, volume, and options flow.
-URL: https://www.benzinga.com/trading-ideas/24/09/40880166/market-clubhouse-morning-memo-september-16th-2024-trade-strategy-for-spy-qqq-aapl-msft-nvda-googl-m
-
-News 4:
-Title: Time to Buy These Closely Watched Stocks? NVDA, SMCI, AAPL
-Summary: Super Micro Computer, Apple, and Nvidia have been in high demand on Zacks. What should investors know?
-URL: https://www.zacks.com/commentary/2336113/time-to-buy-these-closely-watched-stocks-nvda-smci-aapl
-
-News 5:
-Title: Logitech Expands Portfolio: Should You Buy, Sell or Hold the Stock?
-Summary: LOGI expands its portfolio with the Ultimate Ears MINIROLL portable Bluetooth speaker, offering its customers more choices.
-URL: https://www.zacks.com/stock/news/2336562/logitech-expands-portfolio-should-you-buy-sell-or-hold-the-stock
+Failed to retrieve news information
 

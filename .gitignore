@@ -6,4 +6,4 @@ __pycache__/
 keys.env
 
 # Ignore virtual environment
-venv/
+env/
