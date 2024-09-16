@@ -3,7 +3,7 @@ __pycache__/
 *.pyc
 
 # Ignore environment variable file
-.env
+keys.env
 
 # Ignore virtual environment
 venv/
